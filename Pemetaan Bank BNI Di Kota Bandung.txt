@@ -1,0 +1,11 @@
+Pemetaan Bank BNI Di Kota Bandung
+
+Tujuan Pembuatan : memberikan kemudahan kepada pengguna dalam menemukan dan mengakses informasi terkait lokasi setiap cabang Bank BNI di wilayah Bandung. Sehingga pengguna dapat dengan cepat menemukan cabang Bank BNI yang sesuai dengan kebutuhan. 
+
+Informasi setiap bank yang ditampilkan pada peta berbentuk marker dengan menampilkan pop up disetiap proses hover dititik marker dan menampilkan data-data sebagai berikut :
+1. Nama Bank 
+2. Alamat Bank
+3. Call Center
+4. Jam Operasional
+5. Latitude
+6. Longitude
